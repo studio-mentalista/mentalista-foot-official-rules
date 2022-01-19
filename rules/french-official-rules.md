@@ -60,4 +60,4 @@ Certaines fautes graves peuvent handicaper le joueur. L'algorithme après une fa
 
 __________________________
 
-[http://mentalista.football](http://mentalista.football)
+[https://mentalista.football](http://mentalista.football)

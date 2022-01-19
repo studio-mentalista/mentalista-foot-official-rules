@@ -60,4 +60,4 @@ Some serious fouls can handicap the player. The algorithm after a mistake can de
 
 __________________________
 
-[http://mentalista.football](http://mentalista.football)
+[https://mentalista.football](http://mentalista.football)
